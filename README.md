@@ -15,8 +15,6 @@ I'm Student at Amrita Vishwa Vidhyapeetam, <br>currently persuving my Btech UG d
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LokeshYarramallu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LokeshYarramallu&icon=0&color=0)](https://visitcount.itsvg.in)
